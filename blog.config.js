@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'Lapi's blog',
+  title: 'Lapis blog',
   author: 'Shilapi',
   email: 'lapi@lapiw.icu',
   link: 'https://twitter.com/shilapiw',
