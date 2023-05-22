@@ -1,7 +1,7 @@
 const BLOG = {
-  title: 'Lapis blog',
+  title: 'Lapi的blog',
   author: 'Shilapi',
-  email: 'lapi@lapiw.icu',
+  email: 'shilapi@outlook.com',
   link: 'https://twitter.com/shilapiw',
   description: 'Just some random thoughts.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
@@ -18,9 +18,9 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://twitter.com/craigaryhart',
+  socialLink: 'https://twitter.com/shilapiw',
   seo: {
-    keywords: ['Card','Blog', 'Website', 'Notion'],
+    keywords: ['Card','日常','卡','Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
